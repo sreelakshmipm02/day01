@@ -1,0 +1,33 @@
+#about{
+      color: #0c0c0c;
+      text-align: center;
+      font-size:x-large
+  
+  }
+  #skill{
+      color: #000000;
+    float: left;
+     font-size: x-large;
+  }
+  header{
+      color:#be1a1a;
+      padding: 1em 0;
+      text-align: center;
+      font-size: xx-large;
+  
+  }
+  body{
+      background-image: url('https://th.bing.com/th/id/OIP.UsSMdaD-OMP3SWFiDM_CJAHaJ3?w=202&h=269&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+      background-size: cover;
+  }
+  #home{
+      color: #0e0e0e;
+      text-align: center;
+      font-size: x-large
+  }
+  #contact{
+      color: #0e0e0e;
+      text-align: center;
+      float: right;
+      font-size:x-large
+  }

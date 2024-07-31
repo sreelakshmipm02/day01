@@ -1,0 +1,39 @@
+
+#para{
+    font-size: larger;
+    color: red;
+    font-style: italic;
+    
+
+}
+
+.navbar{
+    background-color: aqua;
+    overflow: hidden;
+    display: flex;
+}
+.horizontal-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.horizontal-list li{
+    margin-right: 20px;
+}
+.horizontal-list li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+.horizontal-list li a:hover{
+    background-color: blue;
+    color: black;
+}
+
+p{
+    color: rgb(251, 9, 174);
+    font-size: xx-large;
+}
+
